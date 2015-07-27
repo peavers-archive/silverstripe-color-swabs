@@ -9,8 +9,6 @@ An extension of font-awesome-picker that replaces the icons with colours.
 ## Installation
 
 ### Composer
-Make sure you're not double loading the css/fonts with a theme.
-
 Ideally composer will be used to install this module. 
 ```composer require "moe/color-swab:@stable"```
 
