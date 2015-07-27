@@ -42,7 +42,7 @@ A basic working example, include the following to any class you want the field o
     }
 ```
 
-Then simple include in the template in a class element
+Then simply include in the template in a class element
 ```html
     <nav class="{$MenuBackgroundColor}">[...]</nav>  
 ```
