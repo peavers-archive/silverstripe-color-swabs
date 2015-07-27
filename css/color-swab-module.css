@@ -1,0 +1,22 @@
+* {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.colorpicker-popover.popover {
+    width: 512px;
+}
+
+.colorpicker .colorpicker-item {
+    width: 34px;
+    height: 34px;
+    padding: 0;
+}
+
+[class^="color color-"] {
+    width: 100%;
+    height: 100%;
+    display: block;
+    padding: 0;
+}

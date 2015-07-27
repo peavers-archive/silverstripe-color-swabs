@@ -1,0 +1,107 @@
+/* Each one of these classes should be mapped to a class in color-swabs.js */
+/* You can name the classes whatever you like, but they do need to be prefixed with color- */
+
+/* css/color-swabs.css */
+.color-black-500 {
+    background: #000000;
+}
+
+.color-red-300 {
+    background: #fcd2bf;
+}
+
+.color-red-300 {
+    background: #fcd2bf;
+}
+
+.color-red-400 {
+    background: #e6674a;
+}
+
+.color-red-500 {
+    background: #dc291e;
+}
+
+.color-red-600 {
+    background: #b6231d;
+}
+
+.color-yellow-300 {
+    background: #fff1a4;
+}
+
+.color-yellow-400 {
+    background: #ffd444;
+}
+
+.color-yellow-500 {
+    background: #fcb116;
+}
+
+.color-yellow-600 {
+    background: #de6420;
+}
+
+.color-blue-300 {
+    background: #c5d6e8;
+}
+
+.color-blue-400 {
+    background: #6e99d4;
+}
+
+.color-blue-500 {
+    background: #2a6ebb;
+}
+
+.color-blue-600 {
+    background: #2a6ebb;
+}
+
+.color-green-300 {
+    background: #20419a;
+}
+
+.color-green-400 {
+    background: #c6e1a6;
+}
+
+.color-green-500 {
+    background: #9ecf7c;
+}
+
+.color-green-600 {
+    background: #58b947;
+}
+
+.color-teal-300 {
+    background: #00853e;
+}
+
+.color-teal-400 {
+    background: #a2dadc;
+}
+
+.color-teal-500 {
+    background: #48b9c7;
+}
+
+.color-teal-600 {
+    background: #00acbd;
+}
+
+.color-purple-300 {
+    background: #006f79;
+}
+
+.color-purple-400 {
+    background: #b2b5db;
+}
+
+.color-purple-500 {
+    background: #7175b7;
+}
+
+.color-purple-600 {
+    background: #5956a5;
+}
