@@ -14,8 +14,12 @@ Make sure you're not double loading the css/fonts with a theme.
 Ideally composer will be used to install this module. 
 ```composer require "moe/color-swab:@stable"```
 
-## Screenshots
+## Screen shots
+
+### Color swab view
 ![Color swabs](https://raw.githubusercontent.com/peavers/silverstripe-color-swabs/master/images/screens/color-swabs.png "Colour swabs")
+---------------------------------------
+### Filter view
 ![Filter](https://raw.githubusercontent.com/peavers/silverstripe-color-swabs/master/images/screens/color-swabs-filter.png "Colour filter")
 
 ## Usage
