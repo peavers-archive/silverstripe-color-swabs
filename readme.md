@@ -76,6 +76,6 @@ For example: To add the colour black make the following changes
 * Font Awesome Icon Picker
  
 ## Final words
-This was built for a specific user case, and built to our specific environment, it may not work for you and probably won't meet accessibility standards on some level. 
+This was built for a specific user case, and built to our specific environment, it may not work for you and may not meet accessibility standards on some level. 
 Make sure you know what it is you're installing, before installing it. 
 
