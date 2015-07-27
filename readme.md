@@ -23,7 +23,7 @@ Ideally composer will be used to install this module.
 ![Filter](https://raw.githubusercontent.com/peavers/silverstripe-color-swabs/master/images/screens/color-swabs-filter.png "Colour filter")
 
 ## Usage
-A basic working example, and the following to any class you want the field on; 
+A basic working example, include the following to any class you want the field on; 
 
 ```php
     private static $db = array(
@@ -49,7 +49,7 @@ Then simple include in the template in a class element
 
 The controller extension should make sure you've got access to the colour swabs so you don't need to double up the CSS file. 
 
-## Added/Changing colours
+## Add/Change colours
 To modify the choice of colours you need to change two files.
  
 * js/color-swabs.js
@@ -74,3 +74,8 @@ For example: To add the colour black make the following changes
 
 ## Libraries used/modified
 * Font Awesome Icon Picker
+ 
+## Final words
+This was built for a specific user case, and built to our specific environment, it may not work for you and probably won't meet accessibility standards on some level. 
+Make sure you know what it is you're installing, before installing it. 
+
