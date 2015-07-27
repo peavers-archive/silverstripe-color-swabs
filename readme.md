@@ -15,8 +15,8 @@ Ideally composer will be used to install this module.
 ```composer require "moe/color-swab:@stable"```
 
 ## Screenshots
-![Color swabs]
-![Filter]
+![Color swabs](https://raw.githubusercontent.com/peavers/silverstripe-color-swabs/master/images/screens/color-swabs.png "Colour swabs")
+![Filter](https://raw.githubusercontent.com/peavers/silverstripe-color-swabs/master/images/screens/color-swabs-filter.png "Colour filter")
 
 ## Usage
 A basic working example, and the following to any class you want the field on; 
