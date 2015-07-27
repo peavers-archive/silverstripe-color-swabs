@@ -1,0 +1,6 @@
+---
+Name: color-swab
+---
+ContentController:
+  extensions:
+   - ColorSwabControllerExtension
