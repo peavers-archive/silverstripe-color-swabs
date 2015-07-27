@@ -1,11 +1,6 @@
 /* Each one of these classes should be mapped to a class in color-swabs.js */
 /* You can name the classes whatever you like, but they do need to be prefixed with color- */
 
-/* css/color-swabs.css */
-.color-black-500 {
-    background: #000000;
-}
-
 .color-red-300 {
     background: #fcd2bf;
 }
