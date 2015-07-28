@@ -75,8 +75,3 @@ Got you covered, checkout [font-awesome](https://github.com/peavers/silverstripe
 
 ## Libraries used/modified
 * Font Awesome Icon Picker
- 
-## Final words
-This was built for a specific user case, and built to our specific environment, it may not work for you and may not meet accessibility standards on some level. 
-Make sure you know what it is you're installing, before installing it. 
-
