@@ -72,5 +72,8 @@ For example: To add the colour black make the following changes
     }
 ```
 
+## Want icons instead of colours? 
+Got you covered, checkout [font-awesome](https://github.com/peavers/silverstripe-font-awesome)!
+
 ## Libraries used/modified
 * Font Awesome Icon Picker
