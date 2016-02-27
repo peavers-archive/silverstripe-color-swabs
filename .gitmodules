@@ -1,0 +1,3 @@
+[submodule "grunt-base"]
+	path = grunt-base
+	url = https://gitlab.cwp.govt.nz/build-tools/grunt-base.git

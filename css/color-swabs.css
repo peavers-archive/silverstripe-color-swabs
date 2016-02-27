@@ -1,6 +1,7 @@
 /* Each one of these classes should be mapped to a class in color-swabs.js */
 /* You can name the classes whatever you like, but they do need to be prefixed with color- */
 
+/* RED */
 .color-red-300 {
     background: #fcd2bf;
 }
@@ -21,6 +22,7 @@
     background: #b6231d;
 }
 
+/* YELLOW */
 .color-yellow-300 {
     background: #fff1a4;
 }
@@ -37,6 +39,7 @@
     background: #de6420;
 }
 
+/* BLUE */
 .color-blue-300 {
     background: #c5d6e8;
 }
@@ -50,53 +53,56 @@
 }
 
 .color-blue-600 {
-    background: #2a6ebb;
-}
-
-.color-green-300 {
     background: #20419a;
 }
 
-.color-green-400 {
+/* GREEN */
+.color-green-300 {
     background: #c6e1a6;
 }
 
-.color-green-500 {
+.color-green-400 {
     background: #9ecf7c;
 }
 
-.color-green-600 {
+.color-green-500 {
     background: #58b947;
 }
 
-.color-teal-300 {
+.color-green-600 {
     background: #00853e;
 }
 
-.color-teal-400 {
+/* TEAL */
+.color-teal-300 {
     background: #a2dadc;
 }
 
-.color-teal-500 {
+.color-teal-400 {
     background: #48b9c7;
 }
 
-.color-teal-600 {
+.color-teal-500 {
     background: #00acbd;
 }
 
-.color-purple-300 {
+.color-teal-600 {
     background: #006f79;
 }
 
-.color-purple-400 {
+/* PURPLE */
+.color-purple-300 {
     background: #b2b5db;
 }
 
-.color-purple-500 {
+.color-purple-400 {
     background: #7175b7;
 }
 
-.color-purple-600 {
+.color-purple-500 {
     background: #5956a5;
+}
+
+.color-purple-600 {
+    background: #3e3e7c;
 }
